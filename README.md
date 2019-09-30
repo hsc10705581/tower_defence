@@ -10,4 +10,12 @@ VR塔防游戏
 
 使用unity 2018.3.14f1版本进行开发
 
+## tips
 
+使用submodules插件VRTK来进行开发，插件的使用可以查看[链接](https://github.com/ExtendRealityLtd/VRTK)
+在bash中键入
+``` bash
+git submodule init
+git submodule update
+```
+来clone submodule
