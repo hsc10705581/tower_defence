@@ -1,0 +1,3 @@
+[submodule "code/VR_tower/Assets/VRTK"]
+	path = code/VR_tower/Assets/VRTK
+	url = git@github.com:ExtendRealityLtd/VRTK.git
